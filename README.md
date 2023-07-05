@@ -17,7 +17,7 @@
 
 
 ###  My Major Skill :  
-  <div style="display: flex; align-items: flex-start; align: center">
+  <div style="display: flex; align-items: flex-start; >
 <table align="center">
   <tr>
     <td align="center" width="96">
