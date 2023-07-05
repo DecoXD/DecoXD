@@ -17,7 +17,7 @@
 
 
 ###  My Major Skill :  
-  <div style="display: flex; align-items: flex-start;" >
+  <div style="display: flex; align-items: flex-start; justify-content:flex-start" >
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -58,7 +58,7 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="jQuery" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
   </tr>
