@@ -7,7 +7,7 @@
 
 ###  My Major Skill :  
   <div style="display: flex; align-items: flex-start; justify-content:flex-start" >
-<table align="center">
+<table align="start">
   <tr>
     <td align="center" width="96">
         <a href="https://drive.google.com/file/d/1p2Y4xDEixiKGIndXhAvXaa1zQothjKoI/view?usp=sharing" ><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
