@@ -1,5 +1,5 @@
 ## olá  eu sou André Pinheiro
-- 👀 tenho interesses em HTML, CSS,JS,PHP,PYTHON
+- 👀 tenho interesses em JS,PHP,PYTHON
 - 🌱 estou estudando ... PYTHON
 - 📫como me encontrar: andre.devfront@gmail.com // (71) 9-9607-6480
 
